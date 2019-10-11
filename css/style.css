@@ -62,7 +62,6 @@ body{
 .features{
     background-color: #f2f2f2;
     padding: 89px 0 99px 0;
-
 }
 .section-title{
     color: #333333;
@@ -74,8 +73,6 @@ body{
 }
 .features-wrap{
     display: flex;
-}
-.feature_block{
 }
 .feature-block__img{
     min-height: 50px;
@@ -109,5 +106,4 @@ body{
 }
 .foto{
     margin-bottom: 40px; 
-
 }
